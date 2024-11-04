@@ -1,0 +1,1772 @@
+Title,Entry
+Troubling Trends in Machine Learning Scholarship: Some ML papers suffer from flaws that could mislead the public and stymie future research.,"@article{10.1145/3317287.3328534,
+author = {Lipton, Zachary C. and Steinhardt, Jacob},
+title = {Troubling Trends in Machine Learning Scholarship: Some ML papers suffer from flaws that could mislead the public and stymie future research.},
+year = {2019},
+issue_date = {January-February 2019},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {17},
+number = {1},
+issn = {1542-7730},
+url = {https://doi.org/10.1145/3317287.3328534},
+doi = {10.1145/3317287.3328534},
+abstract = {Flawed scholarship threatens to mislead the public and stymie future research by compromising ML’s intellectual foundations. Indeed, many of these problems have recurred cyclically throughout the history of AI and, more broadly, in scientific research. In 1976, Drew McDermott chastised the AI community for abandoning self-discipline, warning prophetically that ""if we can’t criticize ourselves, someone else will save us the trouble."" The current strength of machine learning owes to a large body of rigorous research to date, both theoretical and empirical. By promoting clear scientific thinking and communication, our community can sustain the trust and investment it currently enjoys.},
+journal = {Queue},
+month = feb,
+pages = {45–77},
+numpages = {33}
+}
+"
+Technology and courage.,"@article{sutherland1996technology,
+  title={Technology and courage},
+  author={Sutherland, Ivan},
+  journal={Perspectives},
+  volume={96},
+  pages={1},
+  year={1996}
+}
+"
+,
+A Tutorial on Deep Latent Variable Models of Natural Language.,"@article{kimATutorialon2018,
+  author       = {Yoon Kim and
+                  Sam Wiseman and
+                  Alexander M. Rush},
+  title        = {A Tutorial on Deep Latent Variable Models of Natural Language},
+  journal      = {CoRR},
+  volume       = {abs/1812.06834},
+  year         = {2018},
+  url          = {http://arxiv.org/abs/1812.06834},
+  eprinttype    = {arXiv},
+  eprint       = {1812.06834},
+  timestamp    = {Tue, 01 Jan 2019 15:01:25 +0100},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-1812-06834.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Deep Bayesian Bandits Showdown: An Empirical Comparison of Bayesian Deep Networks for Thompson Sampling.,"@inproceedings{riquelmeDeepBayesianBandits2018,
+  author       = {Carlos Riquelme and
+                  George Tucker and
+                  Jasper Snoek},
+  title        = {Deep Bayesian Bandits Showdown: An Empirical Comparison of Bayesian
+                  Deep Networks for Thompson Sampling},
+  booktitle    = {6th International Conference on Learning Representations, {ICLR} 2018,
+                  Vancouver, BC, Canada, April 30 - May 3, 2018, Conference Track Proceedings},
+  publisher    = {OpenReview.net},
+  year         = {2018},
+  url          = {https://openreview.net/forum?id=SyYe6k-CW},
+  timestamp    = {Thu, 25 Jul 2019 14:25:48 +0200},
+  biburl       = {https://dblp.org/rec/conf/iclr/RiquelmeTS18.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Are we really making much progress? A worrying analysis of recent neural recommendation approaches.,"@inproceedings{dacremaArewereally2019,
+  author       = {Maurizio Ferrari Dacrema and
+                  Paolo Cremonesi and
+                  Dietmar Jannach},
+  editor       = {Toine Bogers and
+                  Alan Said and
+                  Peter Brusilovsky and
+                  Domonkos Tikk},
+  title        = {Are we really making much progress? {A} worrying analysis of recent
+                  neural recommendation approaches},
+  booktitle    = {Proceedings of the 13th {ACM} Conference on Recommender Systems, RecSys
+                  2019, Copenhagen, Denmark, September 16-20, 2019},
+  pages        = {101--109},
+  publisher    = {{ACM}},
+  year         = {2019},
+  url          = {https://doi.org/10.1145/3298689.3347058},
+  doi          = {10.1145/3298689.3347058},
+  timestamp    = {Fri, 27 Dec 2019 21:29:22 +0100},
+  biburl       = {https://dblp.org/rec/conf/recsys/DacremaCJ19.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+What is wrong with scene text recognition model comparisons? dataset and model analysis.,"@inproceedings{baekWhatIsWrong2019,
+  author       = {Jeonghun Baek and
+                  Geewook Kim and
+                  Junyeop Lee and
+                  Sungrae Park and
+                  Dongyoon Han and
+                  Sangdoo Yun and
+                  Seong Joon Oh and
+                  Hwalsuk Lee},
+  title        = {What Is Wrong With Scene Text Recognition Model Comparisons? Dataset
+                  and Model Analysis},
+  booktitle    = {2019 {IEEE/CVF} International Conference on Computer Vision, {ICCV}
+                  2019, Seoul, Korea (South), October 27 - November 2, 2019},
+  pages        = {4714--4722},
+  publisher    = {{IEEE}},
+  year         = {2019},
+  url          = {https://doi.org/10.1109/ICCV.2019.00481},
+  doi          = {10.1109/ICCV.2019.00481},
+  timestamp    = {Thu, 05 Mar 2020 13:43:22 +0100},
+  biburl       = {https://dblp.org/rec/conf/iccv/BaekKLPHYOL19.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Interpretability and Analysis in Neural NLP.,"@inproceedings{belinkovInterpretabilityandAnalysis2020,
+  author       = {Yonatan Belinkov and
+                  Sebastian Gehrmann and
+                  Ellie Pavlick},
+  editor       = {Agata Savary and
+                  Yue Zhang},
+  title        = {Interpretability and Analysis in Neural {NLP}},
+  booktitle    = {Proceedings of the 58th Annual Meeting of the Association for Computational
+                  Linguistics: Tutorial Abstracts, {ACL} 2020, Online, July 5, 2020},
+  pages        = {1--5},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2020},
+  url          = {https://doi.org/10.18653/v1/2020.acl-tutorials.1},
+  doi          = {10.18653/V1/2020.ACL-TUTORIALS.1},
+  timestamp    = {Mon, 28 Aug 2023 21:17:06 +0200},
+  biburl       = {https://dblp.org/rec/conf/acl/BelinkovGP20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Changing the World by Changing the Data.,"@inproceedings{rogersChangingtheWorld2021,
+  author       = {Anna Rogers},
+  editor       = {Chengqing Zong and
+                  Fei Xia and
+                  Wenjie Li and
+                  Roberto Navigli},
+  title        = {Changing the World by Changing the Data},
+  booktitle    = {Proceedings of the 59th Annual Meeting of the Association for Computational
+                  Linguistics and the 11th International Joint Conference on Natural
+                  Language Processing, {ACL/IJCNLP} 2021, (Volume 1: Long Papers), Virtual
+                  Event, August 1-6, 2021},
+  pages        = {2182--2194},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2021},
+  url          = {https://doi.org/10.18653/v1/2021.acl-long.170},
+  doi          = {10.18653/V1/2021.ACL-LONG.170},
+  timestamp    = {Mon, 09 Aug 2021 16:25:37 +0200},
+  biburl       = {https://dblp.org/rec/conf/acl/Rogers20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+CoDraw: Collaborative Drawing as a Testbed for Grounded Goal-driven Communication.,"@inproceedings{jin{-CoDrawCollaborativeDrawing2019,
+  author       = {Jin{-}Hwa Kim and
+                  Nikita Kitaev and
+                  Xinlei Chen and
+                  Marcus Rohrbach and
+                  Byoung{-}Tak Zhang and
+                  Yuandong Tian and
+                  Dhruv Batra and
+                  Devi Parikh},
+  editor       = {Anna Korhonen and
+                  David R. Traum and
+                  Llu{\'{\i}}s M{\`{a}}rquez},
+  title        = {CoDraw: Collaborative Drawing as a Testbed for Grounded Goal-driven
+                  Communication},
+  booktitle    = {Proceedings of the 57th Conference of the Association for Computational
+                  Linguistics, {ACL} 2019, Florence, Italy, July 28- August 2, 2019,
+                  Volume 1: Long Papers},
+  pages        = {6495--6513},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2019},
+  url          = {https://doi.org/10.18653/v1/p19-1651},
+  doi          = {10.18653/V1/P19-1651},
+  timestamp    = {Fri, 06 Aug 2021 00:41:01 +0200},
+  biburl       = {https://dblp.org/rec/conf/acl/KimKCRZTBP19.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+RecipeQA: A Challenge Dataset for Multimodal Comprehension of Cooking Recipes.,"@inproceedings{yagciogluRecipeQAA2018,
+  author       = {Semih Yagcioglu and
+                  Aykut Erdem and
+                  Erkut Erdem and
+                  Nazli Ikizler{-}Cinbis},
+  editor       = {Ellen Riloff and
+                  David Chiang and
+                  Julia Hockenmaier and
+                  Jun'ichi Tsujii},
+  title        = {RecipeQA: {A} Challenge Dataset for Multimodal Comprehension of Cooking
+                  Recipes},
+  booktitle    = {Proceedings of the 2018 Conference on Empirical Methods in Natural
+                  Language Processing, Brussels, Belgium, October 31 - November 4, 2018},
+  pages        = {1358--1368},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2018},
+  url          = {https://doi.org/10.18653/v1/d18-1166},
+  doi          = {10.18653/V1/D18-1166},
+  timestamp    = {Fri, 06 Aug 2021 00:40:22 +0200},
+  biburl       = {https://dblp.org/rec/conf/emnlp/YagciogluEEI18.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+The Annotated Transformer.,"@inproceedings{rush2018annotated,
+  title={The annotated transformer},
+  author={Rush, Alexander M},
+  booktitle={Proceedings of workshop for NLP open source software (NLP-OSS)},
+  pages={52--60},
+  year={2018}
+}
+"
+NeuSpell: A Neural Spelling Correction Toolkit.,"@inproceedings{jayanthiNeuSpellA2020,
+  author       = {Sai Muralidhar Jayanthi and
+                  Danish Pruthi and
+                  Graham Neubig},
+  editor       = {Qun Liu and
+                  David Schlangen},
+  title        = {NeuSpell: {A} Neural Spelling Correction Toolkit},
+  booktitle    = {Proceedings of the 2020 Conference on Empirical Methods in Natural
+                  Language Processing: System Demonstrations, {EMNLP} 2020 - Demos,
+                  Online, November 16-20, 2020},
+  pages        = {158--164},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2020},
+  url          = {https://doi.org/10.18653/v1/2020.emnlp-demos.21},
+  doi          = {10.18653/V1/2020.EMNLP-DEMOS.21},
+  timestamp    = {Wed, 08 Sep 2021 16:17:48 +0200},
+  biburl       = {https://dblp.org/rec/conf/emnlp/JayanthiPN20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Efficient and modular implicit differentiation.,"@inproceedings{blondelEfficientandModular2022,
+  author       = {Mathieu Blondel and
+                  Quentin Berthet and
+                  Marco Cuturi and
+                  Roy Frostig and
+                  Stephan Hoyer and
+                  Felipe Llinares{-}L{\'{o}}pez and
+                  Fabian Pedregosa and
+                  Jean{-}Philippe Vert},
+  editor       = {Sanmi Koyejo and
+                  S. Mohamed and
+                  A. Agarwal and
+                  Danielle Belgrave and
+                  K. Cho and
+                  A. Oh},
+  title        = {Efficient and Modular Implicit Differentiation},
+  booktitle    = {Advances in Neural Information Processing Systems 35: Annual Conference
+                  on Neural Information Processing Systems 2022, NeurIPS 2022, New Orleans,
+                  LA, USA, November 28 - December 9, 2022},
+  year         = {2022},
+  url          = {http://papers.nips.cc/paper\_files/paper/2022/hash/228b9279ecf9bbafe582406850c57115-Abstract-Conference.html},
+  timestamp    = {Mon, 08 Jan 2024 16:31:27 +0100},
+  biburl       = {https://dblp.org/rec/conf/nips/BlondelBCFHLPV22.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Backpack: Packing more into backprop.,"@inproceedings{dangelBackPACKPackingmore2020,
+  author       = {Felix Dangel and
+                  Frederik Kunstner and
+                  Philipp Hennig},
+  title        = {BackPACK: Packing more into Backprop},
+  booktitle    = {8th International Conference on Learning Representations, {ICLR} 2020,
+                  Addis Ababa, Ethiopia, April 26-30, 2020},
+  publisher    = {OpenReview.net},
+  year         = {2020},
+  url          = {https://openreview.net/forum?id=BJlrF24twB},
+  timestamp    = {Thu, 07 May 2020 17:11:48 +0200},
+  biburl       = {https://dblp.org/rec/conf/iclr/DangelKH20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Latent Dirichlet Allocation.,"@article{blei2003latent,
+  title={Latent dirichlet allocation},
+  author={Blei, David M and Ng, Andrew Y and Jordan, Michael I},
+  journal={Journal of machine Learning research},
+  volume={3},
+  number={Jan},
+  pages={993--1022},
+  year={2003}
+}
+"
+Beta-negative binomial process and Poisson factor analysis.,"@inproceedings{zhouBetaNegativeBinomialProcess2012,
+  author       = {Mingyuan Zhou and
+                  Lauren Hannah and
+                  David B. Dunson and
+                  Lawrence Carin},
+  editor       = {Neil D. Lawrence and
+                  Mark A. Girolami},
+  title        = {Beta-Negative Binomial Process and Poisson Factor Analysis},
+  booktitle    = {Proceedings of the Fifteenth International Conference on Artificial
+                  Intelligence and Statistics, {AISTATS} 2012, La Palma, Canary Islands,
+                  Spain, April 21-23, 2012},
+  series       = {{JMLR} Proceedings},
+  volume       = {22},
+  pages        = {1462--1471},
+  publisher    = {JMLR.org},
+  year         = {2012},
+  url          = {http://proceedings.mlr.press/v22/zhou12c.html},
+  timestamp    = {Tue, 07 May 2024 20:27:00 +0200},
+  biburl       = {https://dblp.org/rec/journals/jmlr/ZhouHDC12.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Modeling User Exposure in Recommendation.,"@inproceedings{liangModelingUserExposure2016,
+  author       = {Dawen Liang and
+                  Laurent Charlin and
+                  James McInerney and
+                  David M. Blei},
+  editor       = {Jacqueline Bourdeau and
+                  Jim Hendler and
+                  Roger Nkambou and
+                  Ian Horrocks and
+                  Ben Y. Zhao},
+  title        = {Modeling User Exposure in Recommendation},
+  booktitle    = {Proceedings of the 25th International Conference on World Wide Web,
+                  {WWW} 2016, Montreal, Canada, April 11 - 15, 2016},
+  pages        = {951--961},
+  publisher    = {{ACM}},
+  year         = {2016},
+  url          = {https://doi.org/10.1145/2872427.2883090},
+  doi          = {10.1145/2872427.2883090},
+  timestamp    = {Tue, 12 Apr 2022 14:46:29 +0200},
+  biburl       = {https://dblp.org/rec/conf/www/LiangCMB16.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Neural Discrete Representation Learning.,"@article{van2017neural,
+  title={Neural discrete representation learning},
+  author={Van Den Oord, Aaron and Vinyals, Oriol and others},
+  journal={Advances in neural information processing systems},
+  volume={30},
+  year={2017}
+}
+"
+Revisiting k-means: New Algorithms via Bayesian Nonparametrics.,"@inproceedings{kulisRevisitingkmeansNew2012,
+  author       = {Brian Kulis and
+                  Michael I. Jordan},
+  title        = {Revisiting k-means: New Algorithms via Bayesian Nonparametrics},
+  booktitle    = {Proceedings of the 29th International Conference on Machine Learning,
+                  {ICML} 2012, Edinburgh, Scotland, UK, June 26 - July 1, 2012},
+  publisher    = {icml.cc / Omnipress},
+  year         = {2012},
+  url          = {http://icml.cc/2012/papers/291.pdf},
+  timestamp    = {Wed, 03 Apr 2019 17:43:36 +0200},
+  biburl       = {https://dblp.org/rec/conf/icml/KulisJ12.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+A differential approach to inference in Bayesian networks.,"@article{darwicheADifferentialApproach2013,
+  author       = {Adnan Darwiche},
+  title        = {A Differential Approach to Inference in Bayesian Networks},
+  journal      = {CoRR},
+  volume       = {abs/1301.3847},
+  year         = {2013},
+  url          = {http://arxiv.org/abs/1301.3847},
+  eprinttype    = {arXiv},
+  eprint       = {1301.3847},
+  timestamp    = {Mon, 13 Aug 2018 16:46:16 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-1301-3847.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Learning Neural Templates for Text Generation.,"@inproceedings{wisemanLearningNeuralTemplates2018,
+  author       = {Sam Wiseman and
+                  Stuart M. Shieber and
+                  Alexander M. Rush},
+  editor       = {Ellen Riloff and
+                  David Chiang and
+                  Julia Hockenmaier and
+                  Jun'ichi Tsujii},
+  title        = {Learning Neural Templates for Text Generation},
+  booktitle    = {Proceedings of the 2018 Conference on Empirical Methods in Natural
+                  Language Processing, Brussels, Belgium, October 31 - November 4, 2018},
+  pages        = {3174--3187},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2018},
+  url          = {https://doi.org/10.18653/v1/d18-1356},
+  doi          = {10.18653/V1/D18-1356},
+  timestamp    = {Sun, 02 Oct 2022 16:00:27 +0200},
+  biburl       = {https://dblp.org/rec/conf/emnlp/WisemanSR18.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Mixtures of Probabilistic Principal Component Analyzers.,"@article{tipping1999mixtures,
+  title={Mixtures of probabilistic principal component analyzers},
+  author={Tipping, Michael E and Bishop, Christopher M},
+  journal={Neural computation},
+  volume={11},
+  number={2},
+  pages={443--482},
+  year={1999},
+  publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
+}
+"
+Stochastic Variational Inference.,"@article{hoffman2013stochastic,
+  title={Stochastic variational inference},
+  author={Hoffman, Matthew D and Blei, David M and Wang, Chong and Paisley, John},
+  journal={Journal of Machine Learning Research},
+  year={2013}
+}
+"
+Black box variational inference.,"@article{giordanoBlackBoxVariational2024,
+  author       = {Ryan Giordano and
+                  Martin Ingram and
+                  Tamara Broderick},
+  title        = {Black Box Variational Inference with a Deterministic Objective: Faster,
+                  More Accurate, and Even More Black Box},
+  journal      = {J. Mach. Learn. Res.},
+  volume       = {25},
+  pages        = {18:1--18:39},
+  year         = {2024},
+  url          = {https://jmlr.org/papers/v25/23-1015.html},
+  timestamp    = {Mon, 16 Sep 2024 17:07:54 +0200},
+  biburl       = {https://dblp.org/rec/journals/jmlr/GiordanoIB24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Auto-Encoding Variational Bayes.,"@article{kingma2013auto,
+  title={Auto-encoding variational bayes},
+  author={Kingma, Diederik P},
+  journal={arXiv preprint arXiv:1312.6114},
+  year={2013}
+}
+"
+Automatic Differentiation Variational Inference.,"@inproceedings{shaoNonparametricAutomaticDifferentiation2024,
+  author       = {Yuda Shao and
+                  Shan Yu and
+                  Tianshu Feng},
+  editor       = {Sanjoy Dasgupta and
+                  Stephan Mandt and
+                  Yingzhen Li},
+  title        = {Nonparametric Automatic Differentiation Variational Inference with
+                  Spline Approximation},
+  booktitle    = {International Conference on Artificial Intelligence and Statistics,
+                  2-4 May 2024, Palau de Congressos, Valencia, Spain},
+  series       = {Proceedings of Machine Learning Research},
+  volume       = {238},
+  pages        = {2656--2664},
+  publisher    = {{PMLR}},
+  year         = {2024},
+  url          = {https://proceedings.mlr.press/v238/shao24a.html},
+  timestamp    = {Sun, 04 Aug 2024 19:42:03 +0200},
+  biburl       = {https://dblp.org/rec/conf/aistats/ShaoYF24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Implicit reparameterization gradients.,"@article{figurnov2018implicit,
+  title={Implicit reparameterization gradients},
+  author={Figurnov, Mikhail and Mohamed, Shakir and Mnih, Andriy},
+  journal={Advances in neural information processing systems},
+  volume={31},
+  year={2018}
+}
+"
+The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables.,"@inproceedings{maddisonTheConcreteDistribution2017,
+  author       = {Chris J. Maddison and
+                  Andriy Mnih and
+                  Yee Whye Teh},
+  title        = {The Concrete Distribution: {A} Continuous Relaxation of Discrete Random
+                  Variables},
+  booktitle    = {5th International Conference on Learning Representations, {ICLR} 2017,
+                  Toulon, France, April 24-26, 2017, Conference Track Proceedings},
+  publisher    = {OpenReview.net},
+  year         = {2017},
+  url          = {https://openreview.net/forum?id=S1jE5L5gl},
+  timestamp    = {Thu, 25 Jul 2019 14:26:01 +0200},
+  biburl       = {https://dblp.org/rec/conf/iclr/MaddisonMT17.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Categorical Reparameterization with Gumbel-Softmax.,"@inproceedings{jangCategoricalReparameterizationwith2017,
+  author       = {Eric Jang and
+                  Shixiang Gu and
+                  Ben Poole},
+  title        = {Categorical Reparameterization with Gumbel-Softmax},
+  booktitle    = {5th International Conference on Learning Representations, {ICLR} 2017,
+                  Toulon, France, April 24-26, 2017, Conference Track Proceedings},
+  publisher    = {OpenReview.net},
+  year         = {2017},
+  url          = {https://openreview.net/forum?id=rkE3y85ee},
+  timestamp    = {Thu, 25 Jul 2019 14:26:04 +0200},
+  biburl       = {https://dblp.org/rec/conf/iclr/JangGP17.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Autoencoding Variational Inference For Topic Models.,"@inproceedings{srivastavaAutoencodingVariationalInference2017,
+  author       = {Akash Srivastava and
+                  Charles Sutton},
+  title        = {Autoencoding Variational Inference For Topic Models},
+  booktitle    = {5th International Conference on Learning Representations, {ICLR} 2017,
+                  Toulon, France, April 24-26, 2017, Conference Track Proceedings},
+  publisher    = {OpenReview.net},
+  year         = {2017},
+  url          = {https://openreview.net/forum?id=BybtVK9lg},
+  timestamp    = {Mon, 12 Oct 2020 10:46:36 +0200},
+  biburl       = {https://dblp.org/rec/conf/iclr/SrivastavaS17.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Tighter variational bounds are not necessarily better.,"@inproceedings{rainforth2018tighter,
+  title={Tighter variational bounds are not necessarily better},
+  author={Rainforth, Tom and Kosiorek, Adam and Le, Tuan Anh and Maddison, Chris and Igl, Maximilian and Wood, Frank and Teh, Yee Whye},
+  booktitle={International Conference on Machine Learning},
+  pages={4277--4285},
+  year={2018},
+  organization={PMLR}
+}
+"
+A contrastive divergence for combining variational inference and mcmc.,"@inproceedings{ruizAContrastiveDivergence2019,
+  author       = {Francisco J. R. Ruiz and
+                  Michalis K. Titsias},
+  editor       = {Kamalika Chaudhuri and
+                  Ruslan Salakhutdinov},
+  title        = {A Contrastive Divergence for Combining Variational Inference and {MCMC}},
+  booktitle    = {Proceedings of the 36th International Conference on Machine Learning,
+                  {ICML} 2019, 9-15 June 2019, Long Beach, California, {USA}},
+  series       = {Proceedings of Machine Learning Research},
+  volume       = {97},
+  pages        = {5537--5545},
+  publisher    = {{PMLR}},
+  year         = {2019},
+  url          = {http://proceedings.mlr.press/v97/ruiz19a.html},
+  timestamp    = {Thu, 26 Sep 2019 11:28:57 +0200},
+  biburl       = {https://dblp.org/rec/conf/icml/RuizT19.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+A Conceptual Introduction to Hamiltonian Monte Carlo.,"@article{betancourt2017conceptual,
+  title={A conceptual introduction to Hamiltonian Monte Carlo},
+  author={Betancourt, Michael},
+  journal={arXiv preprint arXiv:1701.02434},
+  year={2017}
+}
+"
+Firefly Monte Carlo: exact MCMC with subsets of data.,"@inproceedings{maclaurinFireflyMonteCarlo2015,
+  author       = {Dougal Maclaurin and
+                  Ryan Prescott Adams},
+  editor       = {Qiang Yang and
+                  Michael J. Wooldridge},
+  title        = {Firefly Monte Carlo: Exact {MCMC} with Subsets of Data},
+  booktitle    = {Proceedings of the Twenty-Fourth International Joint Conference on
+                  Artificial Intelligence, {IJCAI} 2015, Buenos Aires, Argentina, July
+                  25-31, 2015},
+  pages        = {4289--4295},
+  publisher    = {{AAAI} Press},
+  year         = {2015},
+  url          = {http://ijcai.org/Abstract/15/610},
+  timestamp    = {Tue, 20 Aug 2019 16:17:27 +0200},
+  biburl       = {https://dblp.org/rec/conf/ijcai/MaclaurinA15.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Oops i took a gradient: Scalable sampling for discrete distributions.,"@inproceedings{grathwohlOopsI2021,
+  author       = {Will Grathwohl and
+                  Kevin Swersky and
+                  Milad Hashemi and
+                  David Duvenaud and
+                  Chris J. Maddison},
+  editor       = {Marina Meila and
+                  Tong Zhang},
+  title        = {Oops {I} Took {A} Gradient: Scalable Sampling for Discrete Distributions},
+  booktitle    = {Proceedings of the 38th International Conference on Machine Learning,
+                  {ICML} 2021, 18-24 July 2021, Virtual Event},
+  series       = {Proceedings of Machine Learning Research},
+  volume       = {139},
+  pages        = {3831--3841},
+  publisher    = {{PMLR}},
+  year         = {2021},
+  url          = {http://proceedings.mlr.press/v139/grathwohl21a.html},
+  timestamp    = {Wed, 25 Aug 2021 17:11:17 +0200},
+  biburl       = {https://dblp.org/rec/conf/icml/GrathwohlSHDM21.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+A note on the evaluation of generative models.,"@inproceedings{theisAnoteon2016,
+  author       = {Lucas Theis and
+                  A{\""{a}}ron van den Oord and
+                  Matthias Bethge},
+  editor       = {Yoshua Bengio and
+                  Yann LeCun},
+  title        = {A note on the evaluation of generative models},
+  booktitle    = {4th International Conference on Learning Representations, {ICLR} 2016,
+                  San Juan, Puerto Rico, May 2-4, 2016, Conference Track Proceedings},
+  year         = {2016},
+  url          = {http://arxiv.org/abs/1511.01844},
+  timestamp    = {Wed, 17 Jul 2019 10:40:54 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/TheisOB15.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+What are Bayesian neural network posteriors really like?,"@inproceedings{izmailovWhatAreBayesian2021,
+  author       = {Pavel Izmailov and
+                  Sharad Vikram and
+                  Matthew D. Hoffman and
+                  Andrew Gordon Wilson},
+  editor       = {Marina Meila and
+                  Tong Zhang},
+  title        = {What Are Bayesian Neural Network Posteriors Really Like?},
+  booktitle    = {Proceedings of the 38th International Conference on Machine Learning,
+                  {ICML} 2021, 18-24 July 2021, Virtual Event},
+  series       = {Proceedings of Machine Learning Research},
+  volume       = {139},
+  pages        = {4629--4640},
+  publisher    = {{PMLR}},
+  year         = {2021},
+  url          = {http://proceedings.mlr.press/v139/izmailov21a.html},
+  timestamp    = {Wed, 25 Aug 2021 17:11:17 +0200},
+  biburl       = {https://dblp.org/rec/conf/icml/IzmailovVHW21.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Underspecification presents challenges for credibility in modern machine learning.,"@article{d'amourUnderspecificationPresentsChallenges2022,
+  author       = {Alexander D'Amour and
+                  Katherine A. Heller and
+                  Dan Moldovan and
+                  Ben Adlam and
+                  Babak Alipanahi and
+                  Alex Beutel and
+                  Christina Chen and
+                  Jonathan Deaton and
+                  Jacob Eisenstein and
+                  Matthew D. Hoffman and
+                  Farhad Hormozdiari and
+                  Neil Houlsby and
+                  Shaobo Hou and
+                  Ghassen Jerfel and
+                  Alan Karthikesalingam and
+                  Mario Lucic and
+                  Yi{-}An Ma and
+                  Cory Y. McLean and
+                  Diana Mincu and
+                  Akinori Mitani and
+                  Andrea Montanari and
+                  Zachary Nado and
+                  Vivek Natarajan and
+                  Christopher Nielson and
+                  Thomas F. Osborne and
+                  Rajiv Raman and
+                  Kim Ramasamy and
+                  Rory Sayres and
+                  Jessica Schrouff and
+                  Martin Seneviratne and
+                  Shannon Sequeira and
+                  Harini Suresh and
+                  Victor Veitch and
+                  Max Vladymyrov and
+                  Xuezhi Wang and
+                  Kellie Webster and
+                  Steve Yadlowsky and
+                  Taedong Yun and
+                  Xiaohua Zhai and
+                  D. Sculley},
+  title        = {Underspecification Presents Challenges for Credibility in Modern Machine
+                  Learning},
+  journal      = {J. Mach. Learn. Res.},
+  volume       = {23},
+  pages        = {226:1--226:61},
+  year         = {2022},
+  url          = {https://jmlr.org/papers/v23/20-1335.html},
+  timestamp    = {Wed, 11 Sep 2024 14:41:27 +0200},
+  biburl       = {https://dblp.org/rec/journals/jmlr/DAmourHMAABCDEH22.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Meta-learning with implicit gradients.,"@article{khadkaMetalearningwithimplicit2022,
+  author       = {Rabindra Khadka and
+                  Debesh Jha and
+                  Steven Hicks and
+                  Vajira Thambawita and
+                  Michael A. Riegler and
+                  Sharib Ali and
+                  P{\aa}l Halvorsen},
+  title        = {Meta-learning with implicit gradients in a few-shot setting for medical
+                  image segmentation},
+  journal      = {Comput. Biol. Medicine},
+  volume       = {143},
+  pages        = {105227},
+  year         = {2022},
+  url          = {https://doi.org/10.1016/j.compbiomed.2022.105227},
+  doi          = {10.1016/J.COMPBIOMED.2022.105227},
+  timestamp    = {Fri, 13 May 2022 19:52:45 +0200},
+  biburl       = {https://dblp.org/rec/journals/cbm/KhadkaJHTRAH22.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Learning neural network subspaces.,"@article{d'agostinoLearningactivesubspaces2024,
+  author       = {Danny D'Agostino and
+                  Ilija Ilievski and
+                  Christine Annette Shoemaker},
+  title        = {Learning active subspaces and discovering important features with
+                  Gaussian radial basis functions neural networks},
+  journal      = {Neural Networks},
+  volume       = {176},
+  pages        = {106335},
+  year         = {2024},
+  url          = {https://doi.org/10.1016/j.neunet.2024.106335},
+  doi          = {10.1016/J.NEUNET.2024.106335},
+  timestamp    = {Fri, 19 Jul 2024 23:16:53 +0200},
+  biburl       = {https://dblp.org/rec/journals/nn/DAgostinoIS24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Fourier features let networks learn high frequency functions in low dimensional domains.,"@inproceedings{tancikFourierFeaturesLet2020,
+  author       = {Matthew Tancik and
+                  Pratul P. Srinivasan and
+                  Ben Mildenhall and
+                  Sara Fridovich{-}Keil and
+                  Nithin Raghavan and
+                  Utkarsh Singhal and
+                  Ravi Ramamoorthi and
+                  Jonathan T. Barron and
+                  Ren Ng},
+  editor       = {Hugo Larochelle and
+                  Marc'Aurelio Ranzato and
+                  Raia Hadsell and
+                  Maria{-}Florina Balcan and
+                  Hsuan{-}Tien Lin},
+  title        = {Fourier Features Let Networks Learn High Frequency Functions in Low
+                  Dimensional Domains},
+  booktitle    = {Advances in Neural Information Processing Systems 33: Annual Conference
+                  on Neural Information Processing Systems 2020, NeurIPS 2020, December
+                  6-12, 2020, virtual},
+  year         = {2020},
+  url          = {https://proceedings.neurips.cc/paper/2020/hash/55053683268957697aa39fba6f231c68-Abstract.html},
+  timestamp    = {Tue, 19 Jan 2021 15:57:30 +0100},
+  biburl       = {https://dblp.org/rec/conf/nips/TancikSMFRSRBN20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Growing neural cellular automata.,
+Understanding Generalization through Visualizations.,"@inproceedings{huangUnderstandingGeneralizationThrough2020,
+  author       = {W. Ronny Huang and
+                  Zeyad Emam and
+                  Micah Goldblum and
+                  Liam Fowl and
+                  Justin K. Terry and
+                  Furong Huang and
+                  Tom Goldstein},
+  editor       = {Jessica Zosa Forde and
+                  Francisco J. R. Ruiz and
+                  Melanie F. Pradier and
+                  Aaron Schein},
+  title        = {Understanding Generalization Through Visualizations},
+  booktitle    = {""I Can't Believe It's Not Better!"" at NeurIPS Workshops, Virtual,
+                  December 12, 2020},
+  series       = {Proceedings of Machine Learning Research},
+  volume       = {137},
+  pages        = {87--97},
+  publisher    = {{PMLR}},
+  year         = {2020},
+  url          = {https://proceedings.mlr.press/v137/huang20a.html},
+  timestamp    = {Thu, 14 Jul 2022 17:31:05 +0200},
+  biburl       = {https://dblp.org/rec/conf/icbinb/HuangEGFTHG20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Learning to generate reviews and discovering sentiment.,"@article{radfordLearningtoGenerate2017,
+  author       = {Alec Radford and
+                  Rafal J{\'{o}}zefowicz and
+                  Ilya Sutskever},
+  title        = {Learning to Generate Reviews and Discovering Sentiment},
+  journal      = {CoRR},
+  volume       = {abs/1704.01444},
+  year         = {2017},
+  url          = {http://arxiv.org/abs/1704.01444},
+  eprinttype    = {arXiv},
+  eprint       = {1704.01444},
+  timestamp    = {Mon, 13 Aug 2018 16:47:25 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/RadfordJS17.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Virtual adversarial training: a regularization method for supervised and semi-supervised learning.,"@article{miyatoVirtualAdversarialTraining2017,
+  author       = {Takeru Miyato and
+                  Shin{-}ichi Maeda and
+                  Masanori Koyama and
+                  Shin Ishii},
+  title        = {Virtual Adversarial Training: a Regularization Method for Supervised
+                  and Semi-supervised Learning},
+  journal      = {CoRR},
+  volume       = {abs/1704.03976},
+  year         = {2017},
+  url          = {http://arxiv.org/abs/1704.03976},
+  eprinttype    = {arXiv},
+  eprint       = {1704.03976},
+  timestamp    = {Mon, 13 Aug 2018 16:48:22 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/MiyatoMKI17.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+A simple framework for contrastive learning of visual representations.,"@inproceedings{chenASimpleFramework2020,
+  author       = {Ting Chen and
+                  Simon Kornblith and
+                  Mohammad Norouzi and
+                  Geoffrey E. Hinton},
+  title        = {A Simple Framework for Contrastive Learning of Visual Representations},
+  booktitle    = {Proceedings of the 37th International Conference on Machine Learning,
+                  {ICML} 2020, 13-18 July 2020, Virtual Event},
+  series       = {Proceedings of Machine Learning Research},
+  volume       = {119},
+  pages        = {1597--1607},
+  publisher    = {{PMLR}},
+  year         = {2020},
+  url          = {http://proceedings.mlr.press/v119/chen20j.html},
+  timestamp    = {Wed, 07 Aug 2024 07:51:20 +0200},
+  biburl       = {https://dblp.org/rec/conf/icml/ChenK0H20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Learning transferable visual models from natural language supervision.,"@inproceedings{radfordLearningTransferableVisual2021,
+  author       = {Alec Radford and
+                  Jong Wook Kim and
+                  Chris Hallacy and
+                  Aditya Ramesh and
+                  Gabriel Goh and
+                  Sandhini Agarwal and
+                  Girish Sastry and
+                  Amanda Askell and
+                  Pamela Mishkin and
+                  Jack Clark and
+                  Gretchen Krueger and
+                  Ilya Sutskever},
+  editor       = {Marina Meila and
+                  Tong Zhang},
+  title        = {Learning Transferable Visual Models From Natural Language Supervision},
+  booktitle    = {Proceedings of the 38th International Conference on Machine Learning,
+                  {ICML} 2021, 18-24 July 2021, Virtual Event},
+  series       = {Proceedings of Machine Learning Research},
+  volume       = {139},
+  pages        = {8748--8763},
+  publisher    = {{PMLR}},
+  year         = {2021},
+  url          = {http://proceedings.mlr.press/v139/radford21a.html},
+  timestamp    = {Wed, 25 Aug 2021 17:11:17 +0200},
+  biburl       = {https://dblp.org/rec/conf/icml/RadfordKHRGASAM21.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+"CommandSpace: Modeling the relationships between tasks, descriptions and features.","@inproceedings{adarCommandSpacemodelingthe2014,
+  author       = {Eytan Adar and
+                  Mira Dontcheva and
+                  Gierad Laput},
+  editor       = {Hrvoje Benko and
+                  Mira Dontcheva and
+                  Daniel Wigdor},
+  title        = {CommandSpace: modeling the relationships between tasks, descriptions
+                  and features},
+  booktitle    = {The 27th Annual {ACM} Symposium on User Interface Software and Technology,
+                  {UIST} '14, Honolulu, HI, USA, October 5-8, 2014},
+  pages        = {167--176},
+  publisher    = {{ACM}},
+  year         = {2014},
+  url          = {https://doi.org/10.1145/2642918.2647395},
+  doi          = {10.1145/2642918.2647395},
+  timestamp    = {Tue, 06 Nov 2018 16:58:07 +0100},
+  biburl       = {https://dblp.org/rec/conf/uist/AdarDL14.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Robust Open-Vocabulary Translation from Visual Text Representations.,"@inproceedings{saleskyRobustOpenVocabularyTranslation2021,
+  author       = {Elizabeth Salesky and
+                  David Etter and
+                  Matt Post},
+  editor       = {Marie{-}Francine Moens and
+                  Xuanjing Huang and
+                  Lucia Specia and
+                  Scott Wen{-}tau Yih},
+  title        = {Robust Open-Vocabulary Translation from Visual Text Representations},
+  booktitle    = {Proceedings of the 2021 Conference on Empirical Methods in Natural
+                  Language Processing, {EMNLP} 2021, Virtual Event / Punta Cana, Dominican
+                  Republic, 7-11 November, 2021},
+  pages        = {7235--7252},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2021},
+  url          = {https://doi.org/10.18653/v1/2021.emnlp-main.576},
+  doi          = {10.18653/V1/2021.EMNLP-MAIN.576},
+  timestamp    = {Fri, 16 Feb 2024 08:27:36 +0100},
+  biburl       = {https://dblp.org/rec/conf/emnlp/SaleskyEP21.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Robust Encodings: A Framework for Combating Adversarial Typos.,"@inproceedings{jonesRobustEncodingsA2020,
+  author       = {Erik Jones and
+                  Robin Jia and
+                  Aditi Raghunathan and
+                  Percy Liang},
+  editor       = {Dan Jurafsky and
+                  Joyce Chai and
+                  Natalie Schluter and
+                  Joel R. Tetreault},
+  title        = {Robust Encodings: {A} Framework for Combating Adversarial Typos},
+  booktitle    = {Proceedings of the 58th Annual Meeting of the Association for Computational
+                  Linguistics, {ACL} 2020, Online, July 5-10, 2020},
+  pages        = {2752--2765},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2020},
+  url          = {https://doi.org/10.18653/v1/2020.acl-main.245},
+  doi          = {10.18653/V1/2020.ACL-MAIN.245},
+  timestamp    = {Sun, 06 Oct 2024 20:55:31 +0200},
+  biburl       = {https://dblp.org/rec/conf/acl/JonesJRL20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Predicting dynamic embedding trajectory in temporal interaction networks.,"@inproceedings{kumarPredictingDynamicEmbedding2019,
+  author       = {Srijan Kumar and
+                  Xikun Zhang and
+                  Jure Leskovec},
+  editor       = {Ankur Teredesai and
+                  Vipin Kumar and
+                  Ying Li and
+                  R{\'{o}}mer Rosales and
+                  Evimaria Terzi and
+                  George Karypis},
+  title        = {Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks},
+  booktitle    = {Proceedings of the 25th {ACM} {SIGKDD} International Conference on
+                  Knowledge Discovery {\&} Data Mining, {KDD} 2019, Anchorage, AK, USA,
+                  August 4-8, 2019},
+  pages        = {1269--1278},
+  publisher    = {{ACM}},
+  year         = {2019},
+  url          = {https://doi.org/10.1145/3292500.3330895},
+  doi          = {10.1145/3292500.3330895},
+  timestamp    = {Tue, 20 Aug 2024 07:54:44 +0200},
+  biburl       = {https://dblp.org/rec/conf/kdd/KumarZL19.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Densecap: Fully convolutional localization networks for dense captioning.,"@inproceedings{johnsonDenseCapFullyConvolutional2016,
+  author       = {Justin Johnson and
+                  Andrej Karpathy and
+                  Li Fei{-}Fei},
+  title        = {DenseCap: Fully Convolutional Localization Networks for Dense Captioning},
+  booktitle    = {2016 {IEEE} Conference on Computer Vision and Pattern Recognition,
+                  {CVPR} 2016, Las Vegas, NV, USA, June 27-30, 2016},
+  pages        = {4565--4574},
+  publisher    = {{IEEE} Computer Society},
+  year         = {2016},
+  url          = {https://doi.org/10.1109/CVPR.2016.494},
+  doi          = {10.1109/CVPR.2016.494},
+  timestamp    = {Fri, 24 Mar 2023 00:02:56 +0100},
+  biburl       = {https://dblp.org/rec/conf/cvpr/JohnsonKF16.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Advise: Symbolism and external knowledge for decoding advertisements.,"@inproceedings{yeADVISE2018,
+  author       = {Keren Ye and
+                  Adriana Kovashka},
+  editor       = {Vittorio Ferrari and
+                  Martial Hebert and
+                  Cristian Sminchisescu and
+                  Yair Weiss},
+  title        = {{ADVISE:} Symbolism and External Knowledge for Decoding Advertisements},
+  booktitle    = {Computer Vision - {ECCV} 2018 - 15th European Conference, Munich,
+                  Germany, September 8-14, 2018, Proceedings, Part {XV}},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {11219},
+  pages        = {868--886},
+  publisher    = {Springer},
+  year         = {2018},
+  url          = {https://doi.org/10.1007/978-3-030-01267-0\_51},
+  doi          = {10.1007/978-3-030-01267-0\_51},
+  timestamp    = {Tue, 14 May 2019 10:00:45 +0200},
+  biburl       = {https://dblp.org/rec/conf/eccv/YeK18a.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Generating sentences by editing prototypes.,"@article{guuGeneratingSentencesby2018,
+  author       = {Kelvin Guu and
+                  Tatsunori B. Hashimoto and
+                  Yonatan Oren and
+                  Percy Liang},
+  title        = {Generating Sentences by Editing Prototypes},
+  journal      = {Trans. Assoc. Comput. Linguistics},
+  volume       = {6},
+  pages        = {437--450},
+  year         = {2018},
+  url          = {https://doi.org/10.1162/tacl\_a\_00030},
+  doi          = {10.1162/TACL\_A\_00030},
+  timestamp    = {Wed, 19 Jun 2024 17:28:03 +0200},
+  biburl       = {https://dblp.org/rec/journals/tacl/GuuHOL18.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Extracting training data from large language models.,"@inproceedings{carliniExtractingTrainingData2021,
+  author       = {Nicholas Carlini and
+                  Florian Tram{\`{e}}r and
+                  Eric Wallace and
+                  Matthew Jagielski and
+                  Ariel Herbert{-}Voss and
+                  Katherine Lee and
+                  Adam Roberts and
+                  Tom B. Brown and
+                  Dawn Song and
+                  {\'{U}}lfar Erlingsson and
+                  Alina Oprea and
+                  Colin Raffel},
+  editor       = {Michael D. Bailey and
+                  Rachel Greenstadt},
+  title        = {Extracting Training Data from Large Language Models},
+  booktitle    = {30th {USENIX} Security Symposium, {USENIX} Security 2021, August 11-13,
+                  2021},
+  pages        = {2633--2650},
+  publisher    = {{USENIX} Association},
+  year         = {2021},
+  url          = {https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting},
+  timestamp    = {Mon, 20 Nov 2023 08:57:49 +0100},
+  biburl       = {https://dblp.org/rec/conf/uss/CarliniTWJHLRBS21.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+OCR Post Correction for Endangered Language Texts.,"@inproceedings{rijhwaniOCR2020,
+  author       = {Shruti Rijhwani and
+                  Antonios Anastasopoulos and
+                  Graham Neubig},
+  editor       = {Bonnie Webber and
+                  Trevor Cohn and
+                  Yulan He and
+                  Yang Liu},
+  title        = {{OCR} Post Correction for Endangered Language Texts},
+  booktitle    = {Proceedings of the 2020 Conference on Empirical Methods in Natural
+                  Language Processing, {EMNLP} 2020, Online, November 16-20, 2020},
+  pages        = {5931--5942},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2020},
+  url          = {https://doi.org/10.18653/v1/2020.emnlp-main.478},
+  doi          = {10.18653/V1/2020.EMNLP-MAIN.478},
+  timestamp    = {Tue, 20 Aug 2024 07:54:43 +0200},
+  biburl       = {https://dblp.org/rec/conf/emnlp/RijhwaniAN20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Combating Adversarial Misspellings with Robust Word Recognition.,"@inproceedings{pruthiCombatingAdversarialMisspellings2019,
+  author       = {Danish Pruthi and
+                  Bhuwan Dhingra and
+                  Zachary C. Lipton},
+  editor       = {Anna Korhonen and
+                  David R. Traum and
+                  Llu{\'{\i}}s M{\`{a}}rquez},
+  title        = {Combating Adversarial Misspellings with Robust Word Recognition},
+  booktitle    = {Proceedings of the 57th Conference of the Association for Computational
+                  Linguistics, {ACL} 2019, Florence, Italy, July 28- August 2, 2019,
+                  Volume 1: Long Papers},
+  pages        = {5582--5591},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2019},
+  url          = {https://doi.org/10.18653/v1/p19-1561},
+  doi          = {10.18653/V1/P19-1561},
+  timestamp    = {Fri, 06 Aug 2021 00:41:01 +0200},
+  biburl       = {https://dblp.org/rec/conf/acl/PruthiDL19.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+The Building Blocks of Interpretability,"@article{olah2018building,
+  title={The building blocks of interpretability},
+  author={Olah, Chris and Satyanarayan, Arvind and Johnson, Ian and Carter, Shan and Schubert, Ludwig and Ye, Katherine and Mordvintsev, Alexander},
+  journal={Distill},
+  volume={3},
+  number={3},
+  pages={e10},
+  year={2018}
+}
+"
+Multimodal Neurons in Artificial Neural Networks,"@article{goh2021multimodal,
+  title={Multimodal neurons in artificial neural networks},
+  author={Goh, Gabriel and Cammarata, Nick and Voss, Chelsea and Carter, Shan and Petrov, Michael and Schubert, Ludwig and Radford, Alec and Olah, Chris},
+  journal={Distill},
+  volume={6},
+  number={3},
+  pages={e30},
+  year={2021}
+}
+"
+Rethinking the role of gradient-based attribution methods for model interpretability.,"@inproceedings{srinivasRethinkingtheRole2021,
+  author       = {Suraj Srinivas and
+                  Fran{\c{c}}ois Fleuret},
+  title        = {Rethinking the Role of Gradient-based Attribution Methods for Model
+                  Interpretability},
+  booktitle    = {9th International Conference on Learning Representations, {ICLR} 2021,
+                  Virtual Event, Austria, May 3-7, 2021},
+  publisher    = {OpenReview.net},
+  year         = {2021},
+  url          = {https://openreview.net/forum?id=dYeAHXnpWJ4},
+  timestamp    = {Wed, 23 Jun 2021 17:36:39 +0200},
+  biburl       = {https://dblp.org/rec/conf/iclr/SrinivasF21.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Attention is not not Explanation.,"@inproceedings{wiegreffeAttentionisnot2019,
+  author       = {Sarah Wiegreffe and
+                  Yuval Pinter},
+  editor       = {Kentaro Inui and
+                  Jing Jiang and
+                  Vincent Ng and
+                  Xiaojun Wan},
+  title        = {Attention is not not Explanation},
+  booktitle    = {Proceedings of the 2019 Conference on Empirical Methods in Natural
+                  Language Processing and the 9th International Joint Conference on
+                  Natural Language Processing, {EMNLP-IJCNLP} 2019, Hong Kong, China,
+                  November 3-7, 2019},
+  pages        = {11--20},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2019},
+  url          = {https://doi.org/10.18653/v1/D19-1002},
+  doi          = {10.18653/V1/D19-1002},
+  timestamp    = {Thu, 07 Apr 2022 09:14:07 +0200},
+  biburl       = {https://dblp.org/rec/conf/emnlp/WiegreffeP19.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+"Explain, edit, and understand: Rethinking user study design for evaluating model explanations.","@inproceedings{aroraExplainEditand2022,
+  author       = {Siddhant Arora and
+                  Danish Pruthi and
+                  Norman M. Sadeh and
+                  William W. Cohen and
+                  Zachary C. Lipton and
+                  Graham Neubig},
+  title        = {Explain, Edit, and Understand: Rethinking User Study Design for Evaluating
+                  Model Explanations},
+  booktitle    = {Thirty-Sixth {AAAI} Conference on Artificial Intelligence, {AAAI}
+                  2022, Thirty-Fourth Conference on Innovative Applications of Artificial
+                  Intelligence, {IAAI} 2022, The Twelveth Symposium on Educational Advances
+                  in Artificial Intelligence, {EAAI} 2022 Virtual Event, February 22
+                  - March 1, 2022},
+  pages        = {5277--5285},
+  publisher    = {{AAAI} Press},
+  year         = {2022},
+  url          = {https://doi.org/10.1609/aaai.v36i5.20464},
+  doi          = {10.1609/AAAI.V36I5.20464},
+  timestamp    = {Mon, 04 Sep 2023 16:50:22 +0200},
+  biburl       = {https://dblp.org/rec/conf/aaai/AroraPSCLN22.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Null It Out: Guarding Protected Attributes by Iterative Nullspace Projection.,"@inproceedings{ravfogelNullItOut2020,
+  author       = {Shauli Ravfogel and
+                  Yanai Elazar and
+                  Hila Gonen and
+                  Michael Twiton and
+                  Yoav Goldberg},
+  editor       = {Dan Jurafsky and
+                  Joyce Chai and
+                  Natalie Schluter and
+                  Joel R. Tetreault},
+  title        = {Null It Out: Guarding Protected Attributes by Iterative Nullspace
+                  Projection},
+  booktitle    = {Proceedings of the 58th Annual Meeting of the Association for Computational
+                  Linguistics, {ACL} 2020, Online, July 5-10, 2020},
+  pages        = {7237--7256},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2020},
+  url          = {https://doi.org/10.18653/v1/2020.acl-main.647},
+  doi          = {10.18653/V1/2020.ACL-MAIN.647},
+  timestamp    = {Fri, 06 Aug 2021 00:40:50 +0200},
+  biburl       = {https://dblp.org/rec/conf/acl/RavfogelEGTG20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Exploring crowd co-creation scenarios for sketches.,"@inproceedings{parikhExploringCrowdCocreation2020,
+  author       = {Devi Parikh and
+                  C. Lawrence Zitnick},
+  editor       = {F. Am{\'{\i}}lcar Cardoso and
+                  Penousal Machado and
+                  Tony Veale and
+                  Jo{\~{a}}o Miguel Cunha},
+  title        = {Exploring Crowd Co-creation Scenarios for Sketches},
+  booktitle    = {Proceedings of the Eleventh International Conference on Computational
+                  Creativity, {ICCC} 2020, Coimbra, Portugal, September 7-11, 2020},
+  pages        = {73--76},
+  publisher    = {Association for Computational Creativity {(ACC)}},
+  year         = {2020},
+  url          = {https://computationalcreativity.net/iccc20/papers/092-iccc20.pdf},
+  timestamp    = {Mon, 21 Oct 2024 12:15:21 +0200},
+  biburl       = {https://dblp.org/rec/conf/icccrea/ParikhZ20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+How Can We Accelerate Progress Towards Human-like Linguistic Generalization?,"@inproceedings{linzenHowCanWe2020,
+  author       = {Tal Linzen},
+  editor       = {Dan Jurafsky and
+                  Joyce Chai and
+                  Natalie Schluter and
+                  Joel R. Tetreault},
+  title        = {How Can We Accelerate Progress Towards Human-like Linguistic Generalization?},
+  booktitle    = {Proceedings of the 58th Annual Meeting of the Association for Computational
+                  Linguistics, {ACL} 2020, Online, July 5-10, 2020},
+  pages        = {5210--5217},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2020},
+  url          = {https://doi.org/10.18653/v1/2020.acl-main.465},
+  doi          = {10.18653/V1/2020.ACL-MAIN.465},
+  timestamp    = {Fri, 06 Aug 2021 00:40:51 +0200},
+  biburl       = {https://dblp.org/rec/conf/acl/Linzen20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Beyond accuracy: Behavioral testing of NLP models with CheckList.,"@inproceedings{t{\'{uBeyondAccuracyBehavioral2021,
+  author       = {Marco T{\'{u}}lio Ribeiro and
+                  Tongshuang Wu and
+                  Carlos Guestrin and
+                  Sameer Singh},
+  editor       = {Zhi{-}Hua Zhou},
+  title        = {Beyond Accuracy: Behavioral Testing of {NLP} Models with Checklist
+                  (Extended Abstract)},
+  booktitle    = {Proceedings of the Thirtieth International Joint Conference on Artificial
+                  Intelligence, {IJCAI} 2021, Virtual Event / Montreal, Canada, 19-27
+                  August 2021},
+  pages        = {4824--4828},
+  publisher    = {ijcai.org},
+  year         = {2021},
+  url          = {https://doi.org/10.24963/ijcai.2021/659},
+  doi          = {10.24963/IJCAI.2021/659},
+  timestamp    = {Tue, 15 Oct 2024 16:43:28 +0200},
+  biburl       = {https://dblp.org/rec/conf/ijcai/RibeiroWG021.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+This time with feeling: Learning expressive musical performance.,"@article{ooreThistimewith2020,
+  author       = {Sageev Oore and
+                  Ian Simon and
+                  Sander Dieleman and
+                  Douglas Eck and
+                  Karen Simonyan},
+  title        = {This time with feeling: learning expressive musical performance},
+  journal      = {Neural Comput. Appl.},
+  volume       = {32},
+  number       = {4},
+  pages        = {955--967},
+  year         = {2020},
+  url          = {https://doi.org/10.1007/s00521-018-3758-9},
+  doi          = {10.1007/S00521-018-3758-9},
+  timestamp    = {Fri, 14 May 2021 08:34:00 +0200},
+  biburl       = {https://dblp.org/rec/journals/nca/OoreSDES20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+What makes a good conversation? How controllable attributes affect human judgments.,"@inproceedings{seeWhatmakesa2019,
+  author       = {Abigail See and
+                  Stephen Roller and
+                  Douwe Kiela and
+                  Jason Weston},
+  editor       = {Jill Burstein and
+                  Christy Doran and
+                  Thamar Solorio},
+  title        = {What makes a good conversation? How controllable attributes affect
+                  human judgments},
+  booktitle    = {Proceedings of the 2019 Conference of the North American Chapter of
+                  the Association for Computational Linguistics: Human Language Technologies,
+                  {NAACL-HLT} 2019, Minneapolis, MN, USA, June 2-7, 2019, Volume 1 (Long
+                  and Short Papers)},
+  pages        = {1702--1723},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2019},
+  url          = {https://doi.org/10.18653/v1/n19-1170},
+  doi          = {10.18653/V1/N19-1170},
+  timestamp    = {Fri, 06 Aug 2021 00:41:31 +0200},
+  biburl       = {https://dblp.org/rec/conf/naacl/SeeRKW19.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+A graph placement methodology for fast chip design.,"@article{mirhoseiniAgraphplacement2021,
+  author       = {Azalia Mirhoseini and
+                  Anna Goldie and
+                  Mustafa Yazgan and
+                  Joe Wenjie Jiang and
+                  Ebrahim M. Songhori and
+                  Shen Wang and
+                  Young{-}Joon Lee and
+                  Eric Johnson and
+                  Omkar Pathak and
+                  Azade Nazi and
+                  Jiwoo Pak and
+                  Andy Tong and
+                  Kavya Srinivasa and
+                  William Hang and
+                  Emre Tuncer and
+                  Quoc V. Le and
+                  James Laudon and
+                  Richard Ho and
+                  Roger Carpenter and
+                  Jeff Dean},
+  title        = {A graph placement methodology for fast chip design},
+  journal      = {Nat.},
+  volume       = {594},
+  number       = {7862},
+  pages        = {207--212},
+  year         = {2021},
+  url          = {https://doi.org/10.1038/s41586-021-03544-w},
+  doi          = {10.1038/S41586-021-03544-W},
+  timestamp    = {Mon, 05 Dec 2022 13:35:07 +0100},
+  biburl       = {https://dblp.org/rec/journals/nature/MirhoseiniGYJSW21.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Decision transformer: Reinforcement learning via sequence modeling.,"@inproceedings{chenDecisionTransformerReinforcement2021,
+  author       = {Lili Chen and
+                  Kevin Lu and
+                  Aravind Rajeswaran and
+                  Kimin Lee and
+                  Aditya Grover and
+                  Michael Laskin and
+                  Pieter Abbeel and
+                  Aravind Srinivas and
+                  Igor Mordatch},
+  editor       = {Marc'Aurelio Ranzato and
+                  Alina Beygelzimer and
+                  Yann N. Dauphin and
+                  Percy Liang and
+                  Jennifer Wortman Vaughan},
+  title        = {Decision Transformer: Reinforcement Learning via Sequence Modeling},
+  booktitle    = {Advances in Neural Information Processing Systems 34: Annual Conference
+                  on Neural Information Processing Systems 2021, NeurIPS 2021, December
+                  6-14, 2021, virtual},
+  pages        = {15084--15097},
+  year         = {2021},
+  url          = {https://proceedings.neurips.cc/paper/2021/hash/7f489f642a0ddb10272b5c31057f0663-Abstract.html},
+  timestamp    = {Tue, 03 May 2022 16:20:48 +0200},
+  biburl       = {https://dblp.org/rec/conf/nips/ChenLRLGLASM21.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+On the utility of learning about humans for human-ai coordination.,"@inproceedings{carrollOntheUtility2019,
+  author       = {Micah Carroll and
+                  Rohin Shah and
+                  Mark K. Ho and
+                  Tom Griffiths and
+                  Sanjit A. Seshia and
+                  Pieter Abbeel and
+                  Anca D. Dragan},
+  editor       = {Hanna M. Wallach and
+                  Hugo Larochelle and
+                  Alina Beygelzimer and
+                  Florence d'Alch{\'{e}}{-}Buc and
+                  Emily B. Fox and
+                  Roman Garnett},
+  title        = {On the Utility of Learning about Humans for Human-AI Coordination},
+  booktitle    = {Advances in Neural Information Processing Systems 32: Annual Conference
+                  on Neural Information Processing Systems 2019, NeurIPS 2019, December
+                  8-14, 2019, Vancouver, BC, Canada},
+  pages        = {5175--5186},
+  year         = {2019},
+  url          = {https://proceedings.neurips.cc/paper/2019/hash/f5b1b89d98b7286673128a5fb112cb9a-Abstract.html},
+  timestamp    = {Thu, 28 Jul 2022 09:56:42 +0200},
+  biburl       = {https://dblp.org/rec/conf/nips/CarrollSHGSAD19.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Scaling Hidden Markov Language Models.,"@inproceedings{chiuScalingHiddenMarkov2020,
+  author       = {Justin T. Chiu and
+                  Alexander M. Rush},
+  editor       = {Bonnie Webber and
+                  Trevor Cohn and
+                  Yulan He and
+                  Yang Liu},
+  title        = {Scaling Hidden Markov Language Models},
+  booktitle    = {Proceedings of the 2020 Conference on Empirical Methods in Natural
+                  Language Processing, {EMNLP} 2020, Online, November 16-20, 2020},
+  pages        = {1341--1349},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2020},
+  url          = {https://doi.org/10.18653/v1/2020.emnlp-main.103},
+  doi          = {10.18653/V1/2020.EMNLP-MAIN.103},
+  timestamp    = {Tue, 20 Aug 2024 07:54:43 +0200},
+  biburl       = {https://dblp.org/rec/conf/emnlp/ChiuR20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+The hardware lottery.,"@article{hookerThehardwarelottery2021,
+  author       = {Sara Hooker},
+  title        = {The hardware lottery},
+  journal      = {Commun. {ACM}},
+  volume       = {64},
+  number       = {12},
+  pages        = {58--65},
+  year         = {2021},
+  url          = {https://doi.org/10.1145/3467017},
+  doi          = {10.1145/3467017},
+  timestamp    = {Tue, 21 Dec 2021 17:15:51 +0100},
+  biburl       = {https://dblp.org/rec/journals/cacm/Hooker21.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models.,"@inproceedings{zakenBitFitSimpleParameterefficient2022,
+  author       = {Elad Ben Zaken and
+                  Yoav Goldberg and
+                  Shauli Ravfogel},
+  editor       = {Smaranda Muresan and
+                  Preslav Nakov and
+                  Aline Villavicencio},
+  title        = {BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based
+                  Masked Language-models},
+  booktitle    = {Proceedings of the 60th Annual Meeting of the Association for Computational
+                  Linguistics (Volume 2: Short Papers), {ACL} 2022, Dublin, Ireland,
+                  May 22-27, 2022},
+  pages        = {1--9},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2022},
+  url          = {https://doi.org/10.18653/v1/2022.acl-short.1},
+  doi          = {10.18653/V1/2022.ACL-SHORT.1},
+  timestamp    = {Mon, 01 Aug 2022 16:27:50 +0200},
+  biburl       = {https://dblp.org/rec/conf/acl/ZakenGR22.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Differentiable vector graphics rasterization for editing and learning.,"@article{tzu{-Differentiablevectorgraphics2020,
+  author       = {Tzu{-}Mao Li and
+                  Michal Luk{\'{a}}c and
+                  Micha{\""{e}}l Gharbi and
+                  Jonathan Ragan{-}Kelley},
+  title        = {Differentiable vector graphics rasterization for editing and learning},
+  journal      = {{ACM} Trans. Graph.},
+  volume       = {39},
+  number       = {6},
+  pages        = {193:1--193:15},
+  year         = {2020},
+  url          = {https://doi.org/10.1145/3414685.3417871},
+  doi          = {10.1145/3414685.3417871},
+  timestamp    = {Thu, 14 Oct 2021 08:56:56 +0200},
+  biburl       = {https://dblp.org/rec/journals/tog/LiLGR20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Deepsvg: A hierarchical generative network for vector graphics animation.,"@inproceedings{carlierDeepSVGA2020,
+  author       = {Alexandre Carlier and
+                  Martin Danelljan and
+                  Alexandre Alahi and
+                  Radu Timofte},
+  editor       = {Hugo Larochelle and
+                  Marc'Aurelio Ranzato and
+                  Raia Hadsell and
+                  Maria{-}Florina Balcan and
+                  Hsuan{-}Tien Lin},
+  title        = {DeepSVG: {A} Hierarchical Generative Network for Vector Graphics Animation},
+  booktitle    = {Advances in Neural Information Processing Systems 33: Annual Conference
+                  on Neural Information Processing Systems 2020, NeurIPS 2020, December
+                  6-12, 2020, virtual},
+  year         = {2020},
+  url          = {https://proceedings.neurips.cc/paper/2020/hash/bcf9d6bd14a2095866ce8c950b702341-Abstract.html},
+  timestamp    = {Tue, 19 Jan 2021 15:57:43 +0100},
+  biburl       = {https://dblp.org/rec/conf/nips/CarlierDAT20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Stochastic blockmodels meet graph neural networks.,"@inproceedings{mehtaStochasticBlockmodelsmeet2019,
+  author       = {Nikhil Mehta and
+                  Lawrence Carin and
+                  Piyush Rai},
+  editor       = {Kamalika Chaudhuri and
+                  Ruslan Salakhutdinov},
+  title        = {Stochastic Blockmodels meet Graph Neural Networks},
+  booktitle    = {Proceedings of the 36th International Conference on Machine Learning,
+                  {ICML} 2019, 9-15 June 2019, Long Beach, California, {USA}},
+  series       = {Proceedings of Machine Learning Research},
+  volume       = {97},
+  pages        = {4466--4474},
+  publisher    = {{PMLR}},
+  year         = {2019},
+  url          = {http://proceedings.mlr.press/v97/mehta19a.html},
+  timestamp    = {Tue, 14 May 2024 15:19:47 +0200},
+  biburl       = {https://dblp.org/rec/conf/icml/MehtaCR19.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+AI2D-RST: A multimodal corpus of 1000 primary school science diagrams.,"@article{hiippalaAIDRST2021,
+  author       = {Tuomo Hiippala and
+                  Malihe Alikhani and
+                  Jonas Haverinen and
+                  Timo Kalliokoski and
+                  Evanfiya Logacheva and
+                  Serafina Orekhova and
+                  Aino Tuomainen and
+                  Matthew Stone and
+                  John A. Bateman},
+  title        = {{AI2D-RST:} a multimodal corpus of 1000 primary school science diagrams},
+  journal      = {Lang. Resour. Evaluation},
+  volume       = {55},
+  number       = {3},
+  pages        = {661--688},
+  year         = {2021},
+  url          = {https://doi.org/10.1007/s10579-020-09517-1},
+  doi          = {10.1007/S10579-020-09517-1},
+  timestamp    = {Thu, 12 Aug 2021 17:51:19 +0200},
+  biburl       = {https://dblp.org/rec/journals/lre/HiippalaAHKLOTS21.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Generative adversarial networks for extreme learned image compression.,"@inproceedings{agustssonGenerativeAdversarialNetworks2019,
+  author       = {Eirikur Agustsson and
+                  Michael Tschannen and
+                  Fabian Mentzer and
+                  Radu Timofte and
+                  Luc Van Gool},
+  title        = {Generative Adversarial Networks for Extreme Learned Image Compression},
+  booktitle    = {2019 {IEEE/CVF} International Conference on Computer Vision, {ICCV}
+                  2019, Seoul, Korea (South), October 27 - November 2, 2019},
+  pages        = {221--231},
+  publisher    = {{IEEE}},
+  year         = {2019},
+  url          = {https://doi.org/10.1109/ICCV.2019.00031},
+  doi          = {10.1109/ICCV.2019.00031},
+  timestamp    = {Fri, 09 Apr 2021 18:55:02 +0200},
+  biburl       = {https://dblp.org/rec/conf/iccv/AgustssonTMTG19.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+COIN: COmpression with Implicit Neural representations.,"@article{dupontCOIN2021,
+  author       = {Emilien Dupont and
+                  Adam Golinski and
+                  Milad Alizadeh and
+                  Yee Whye Teh and
+                  Arnaud Doucet},
+  title        = {{COIN:} COmpression with Implicit Neural representations},
+  journal      = {CoRR},
+  volume       = {abs/2103.03123},
+  year         = {2021},
+  url          = {https://arxiv.org/abs/2103.03123},
+  eprinttype    = {arXiv},
+  eprint       = {2103.03123},
+  timestamp    = {Tue, 16 Mar 2021 11:26:59 +0100},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2103-03123.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Statistical Rethinking: A Bayesian course with examples in R and Stan.,"@book{mcelreath2018statistical,
+  title={Statistical rethinking: A Bayesian course with examples in R and Stan},
+  author={McElreath, Richard},
+  year={2018},
+  publisher={Chapman and Hall/CRC}
+}
+"
+Simpson's paradox in Covid-19 case fatality rates: a mediation analysis of age-related causal effects.,"@article{k{\""{uSimpsonsParadoxin2021,
+  author       = {Julius von K{\""{u}}gelgen and
+                  Luigi Gresele and
+                  Bernhard Sch{\""{o}}lkopf},
+  title        = {Simpson's Paradox in {COVID-19} Case Fatality Rates: {A} Mediation
+                  Analysis of Age-Related Causal Effects},
+  journal      = {{IEEE} Trans. Artif. Intell.},
+  volume       = {2},
+  number       = {1},
+  pages        = {18--27},
+  year         = {2021},
+  url          = {https://doi.org/10.1109/TAI.2021.3073088},
+  doi          = {10.1109/TAI.2021.3073088},
+  timestamp    = {Thu, 27 Jul 2023 08:18:58 +0200},
+  biburl       = {https://dblp.org/rec/journals/tai/KugelgenGS21.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Investigating gender bias in language models using causal mediation analysis.,"@inproceedings{vigInvestigatingGenderBias2020,
+  author       = {Jesse Vig and
+                  Sebastian Gehrmann and
+                  Yonatan Belinkov and
+                  Sharon Qian and
+                  Daniel Nevo and
+                  Yaron Singer and
+                  Stuart M. Shieber},
+  editor       = {Hugo Larochelle and
+                  Marc'Aurelio Ranzato and
+                  Raia Hadsell and
+                  Maria{-}Florina Balcan and
+                  Hsuan{-}Tien Lin},
+  title        = {Investigating Gender Bias in Language Models Using Causal Mediation
+                  Analysis},
+  booktitle    = {Advances in Neural Information Processing Systems 33: Annual Conference
+                  on Neural Information Processing Systems 2020, NeurIPS 2020, December
+                  6-12, 2020, virtual},
+  year         = {2020},
+  url          = {https://proceedings.neurips.cc/paper/2020/hash/92650b2e92217715fe312e6fa7b90d82-Abstract.html},
+  timestamp    = {Tue, 19 Jan 2021 15:56:50 +0100},
+  biburl       = {https://dblp.org/rec/conf/nips/VigGBQNSS20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Communicating with Interactive Articles,
+Fidyll: A Compiler for Cross-Format Data Stories & Explorable Explanations.,"@article{conlenFidyllA2022,
+  author       = {Matthew Conlen and
+                  Jeffrey Heer},
+  title        = {Fidyll: {A} Compiler for Cross-Format Data Stories {\&} Explorable
+                  Explanations},
+  journal      = {CoRR},
+  volume       = {abs/2205.09858},
+  year         = {2022},
+  url          = {https://doi.org/10.48550/arXiv.2205.09858},
+  doi          = {10.48550/ARXIV.2205.09858},
+  eprinttype    = {arXiv},
+  eprint       = {2205.09858},
+  timestamp    = {Mon, 23 May 2022 14:22:18 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2205-09858.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Exploring Crowdsourced Work in Low-Resource Settings.,"@inproceedings{chopraExploringCrowdsourcedWork2019,
+  author       = {Manu Chopra and
+                  Indrani Medhi{-}Thies and
+                  Joyojeet Pal and
+                  Colin Scott and
+                  William Thies and
+                  Vivek Seshadri},
+  editor       = {Stephen A. Brewster and
+                  Geraldine Fitzpatrick and
+                  Anna L. Cox and
+                  Vassilis Kostakos},
+  title        = {Exploring Crowdsourced Work in Low-Resource Settings},
+  booktitle    = {Proceedings of the 2019 {CHI} Conference on Human Factors in Computing
+                  Systems, {CHI} 2019, Glasgow, Scotland, UK, May 04-09, 2019},
+  pages        = {381},
+  publisher    = {{ACM}},
+  year         = {2019},
+  url          = {https://doi.org/10.1145/3290605.3300611},
+  doi          = {10.1145/3290605.3300611},
+  timestamp    = {Mon, 26 Jun 2023 20:43:04 +0200},
+  biburl       = {https://dblp.org/rec/conf/chi/ChopraMPSTS19.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+"Howl: A Deployed, Open-Source Wake Word Detection System","@article{tangHowlA2020,
+  author       = {Raphael Tang and
+                  Jaejun Lee and
+                  Afsaneh Razi and
+                  Julia Cambre and
+                  Ian Bicking and
+                  Jofish Kaye and
+                  Jimmy Lin},
+  title        = {Howl: {A} Deployed, Open-Source Wake Word Detection System},
+  journal      = {CoRR},
+  volume       = {abs/2008.09606},
+  year         = {2020},
+  url          = {https://arxiv.org/abs/2008.09606},
+  eprinttype    = {arXiv},
+  eprint       = {2008.09606},
+  timestamp    = {Fri, 28 Aug 2020 12:11:44 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2008-09606.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Pest Management In Cotton Farms: An AI-System Case Study from the Global South.,"@inproceedings{dalmiaPestManagementIn2020,
+  author       = {Aman Dalmia and
+                  Jerome White and
+                  Ankit Chaurasia and
+                  Vishal Agarwal and
+                  Rajesh Jain and
+                  Dhruvin Vora and
+                  Balasaheb Dhame and
+                  Raghu Dharmaraju and
+                  Rahul Panicker},
+  editor       = {Rajesh Gupta and
+                  Yan Liu and
+                  Jiliang Tang and
+                  B. Aditya Prakash},
+  title        = {Pest Management In Cotton Farms: An AI-System Case Study from the
+                  Global South},
+  booktitle    = {{KDD} '20: The 26th {ACM} {SIGKDD} Conference on Knowledge Discovery
+                  and Data Mining, Virtual Event, CA, USA, August 23-27, 2020},
+  pages        = {3119--3127},
+  publisher    = {{ACM}},
+  year         = {2020},
+  url          = {https://doi.org/10.1145/3394486.3403363},
+  doi          = {10.1145/3394486.3403363},
+  timestamp    = {Tue, 09 Mar 2021 09:46:47 +0100},
+  biburl       = {https://dblp.org/rec/conf/kdd/DalmiaWCAJVDDP20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Machine learning that matters.,"@article{wagstaff2012machine,
+  title={Machine learning that matters},
+  author={Wagstaff, Kiri},
+  journal={arXiv preprint arXiv:1206.4656},
+  year={2012}
+}
+"
+"Owning Ethics: Corporate Logics, Silicon Valley, and the Institutionalization of Ethics.","@article{metcalf2019owning,
+  title={Owning ethics: Corporate logics, silicon valley, and the institutionalization of ethics},
+  author={Metcalf, Jacob and Moss, Emanuel and others},
+  journal={Social Research: An International Quarterly},
+  volume={86},
+  number={2},
+  pages={449--476},
+  year={2019},
+  publisher={Johns Hopkins University Press}
+}
+"
+Roles for computing in social change.,"@inproceedings{abebeRolesforcomputing2020,
+  author       = {Rediet Abebe and
+                  Solon Barocas and
+                  Jon M. Kleinberg and
+                  Karen Levy and
+                  Manish Raghavan and
+                  David G. Robinson},
+  editor       = {Mireille Hildebrandt and
+                  Carlos Castillo and
+                  L. Elisa Celis and
+                  Salvatore Ruggieri and
+                  Linnet Taylor and
+                  Gabriela Zanfir{-}Fortuna},
+  title        = {Roles for computing in social change},
+  booktitle    = {FAT* '20: Conference on Fairness, Accountability, and Transparency,
+                  Barcelona, Spain, January 27-30, 2020},
+  pages        = {252--260},
+  publisher    = {{ACM}},
+  year         = {2020},
+  url          = {https://doi.org/10.1145/3351095.3372871},
+  doi          = {10.1145/3351095.3372871},
+  timestamp    = {Sun, 02 Oct 2022 16:01:12 +0200},
+  biburl       = {https://dblp.org/rec/conf/fat/AbebeBKLRR20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Toward a taxonomy of trust for probabilistic machine learning.,"@article{broderickTowardaTaxonomy2021,
+  author       = {Tamara Broderick and
+                  Andrew Gelman and
+                  Rachael Meager and
+                  Anna L. Smith and
+                  Tian Zheng},
+  title        = {Toward a Taxonomy of Trust for Probabilistic Machine Learning},
+  journal      = {CoRR},
+  volume       = {abs/2112.03270},
+  year         = {2021},
+  url          = {https://arxiv.org/abs/2112.03270},
+  eprinttype    = {arXiv},
+  eprint       = {2112.03270},
+  timestamp    = {Mon, 13 Dec 2021 17:51:48 +0100},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2112-03270.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+AI in Global Health: The View from the Front Lines.,"@inproceedings{ismailAI2021,
+  author       = {Azra Ismail and
+                  Neha Kumar},
+  editor       = {Yoshifumi Kitamura and
+                  Aaron Quigley and
+                  Katherine Isbister and
+                  Takeo Igarashi and
+                  Pernille Bj{\o}rn and
+                  Steven Mark Drucker},
+  title        = {{AI} in Global Health: The View from the Front Lines},
+  booktitle    = {{CHI} '21: {CHI} Conference on Human Factors in Computing Systems,
+                  Virtual Event / Yokohama, Japan, May 8-13, 2021},
+  pages        = {598:1--598:21},
+  publisher    = {{ACM}},
+  year         = {2021},
+  url          = {https://doi.org/10.1145/3411764.3445130},
+  doi          = {10.1145/3411764.3445130},
+  timestamp    = {Sat, 30 Sep 2023 09:36:38 +0200},
+  biburl       = {https://dblp.org/rec/conf/chi/IsmailK21.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Re-imagining Algorithmic Fairness in India and Beyond.,"@inproceedings{sambasivanReimaginingAlgorithmicFairness2021,
+  author       = {Nithya Sambasivan and
+                  Erin Arnesen and
+                  Ben Hutchinson and
+                  Tulsee Doshi and
+                  Vinodkumar Prabhakaran},
+  editor       = {Madeleine Clare Elish and
+                  William Isaac and
+                  Richard S. Zemel},
+  title        = {Re-imagining Algorithmic Fairness in India and Beyond},
+  booktitle    = {FAccT '21: 2021 {ACM} Conference on Fairness, Accountability, and
+                  Transparency, Virtual Event / Toronto, Canada, March 3-10, 2021},
+  pages        = {315--328},
+  publisher    = {{ACM}},
+  year         = {2021},
+  url          = {https://doi.org/10.1145/3442188.3445896},
+  doi          = {10.1145/3442188.3445896},
+  timestamp    = {Fri, 05 May 2023 15:54:55 +0200},
+  biburl       = {https://dblp.org/rec/conf/fat/SambasivanAHDP21.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Why AI is harder than we think.,"@article{mitchellWhyAI2021,
+  author       = {Melanie Mitchell},
+  title        = {Why {AI} is Harder Than We Think},
+  journal      = {CoRR},
+  volume       = {abs/2104.12871},
+  year         = {2021},
+  url          = {https://arxiv.org/abs/2104.12871},
+  eprinttype    = {arXiv},
+  eprint       = {2104.12871},
+  timestamp    = {Mon, 03 May 2021 17:38:30 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2104-12871.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+The Dangers of Underclaiming: Reasons for Caution When Reporting How NLP Systems Fail.,"@inproceedings{bowmanTheDangersof2022,
+  author       = {Samuel R. Bowman},
+  editor       = {Smaranda Muresan and
+                  Preslav Nakov and
+                  Aline Villavicencio},
+  title        = {The Dangers of Underclaiming: Reasons for Caution When Reporting How
+                  {NLP} Systems Fail},
+  booktitle    = {Proceedings of the 60th Annual Meeting of the Association for Computational
+                  Linguistics (Volume 1: Long Papers), {ACL} 2022, Dublin, Ireland,
+                  May 22-27, 2022},
+  pages        = {7484--7499},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2022},
+  url          = {https://doi.org/10.18653/v1/2022.acl-long.516},
+  doi          = {10.18653/V1/2022.ACL-LONG.516},
+  timestamp    = {Mon, 01 Aug 2022 16:27:43 +0200},
+  biburl       = {https://dblp.org/rec/conf/acl/Bowman22.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Participation Is not a Design Fix for Machine Learning.,"@inproceedings{sloaneParticipationIsnot2022,
+  author       = {Mona Sloane and
+                  Emanuel Moss and
+                  Olaitan Awomolo and
+                  Laura Forlano},
+  title        = {Participation Is not a Design Fix for Machine Learning},
+  booktitle    = {Equity and Access in Algorithms, Mechanisms, and Optimization, {EAAMO}
+                  2022, Arlington, VA, USA, October 6-9, 2022},
+  pages        = {1:1--1:6},
+  publisher    = {{ACM}},
+  year         = {2022},
+  url          = {https://doi.org/10.1145/3551624.3555285},
+  doi          = {10.1145/3551624.3555285},
+  timestamp    = {Thu, 11 May 2023 21:27:14 +0200},
+  biburl       = {https://dblp.org/rec/conf/eaamo/SloaneMAF22.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+Algorithmic Rural Road Planning in India: Constrained Capacities and Choices in Public Sector.,"@inproceedings{nisarAlgorithmicRuralRoad2022,
+  author       = {Harsh Nisar and
+                  Deepak Gupta and
+                  Pankaj Kumar and
+                  Srinivasa Rao Murapaka and
+                  A. V. Rajesh and
+                  Alka Upadhyaya},
+  title        = {Algorithmic Rural Road Planning in India: Constrained Capacities and
+                  Choices in Public Sector},
+  booktitle    = {Equity and Access in Algorithms, Mechanisms, and Optimization, {EAAMO}
+                  2022, Arlington, VA, USA, October 6-9, 2022},
+  pages        = {14:1--14:11},
+  publisher    = {{ACM}},
+  year         = {2022},
+  url          = {https://doi.org/10.1145/3551624.3555299},
+  doi          = {10.1145/3551624.3555299},
+  timestamp    = {Wed, 26 Oct 2022 08:57:33 +0200},
+  biburl       = {https://dblp.org/rec/conf/eaamo/NisarGKMRU22.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}"
+The perils of embedded experiments.,"@article{dreze2023perils,
+  title={The perils of embedded experiments},
+  author={Dr{\`e}ze, Jean},
+  journal={Review of Development Economics},
+  year={2023},
+  publisher={Wiley Online Library}
+}
+"
+The Silence of the Subaltern Student.,"@article{jaaware1997silence,
+  title={The silence of the subaltern student},
+  author={Jaaware, Aniket},
+  journal={Tharu ed},
+  pages={107--24},
+  year={1997}
+}
+"
